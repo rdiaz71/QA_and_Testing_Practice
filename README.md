@@ -1,1 +1,1 @@
-Using various practice sites to learn Selenium.
+Practicing software testing and QA
